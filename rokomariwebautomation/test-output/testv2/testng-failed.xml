@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [testv2]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="regressiontest(failed)">
+    <classes>
+      <class name="tests.Test_Shiping_Process">
+        <methods>
+          <include name="Shiping_Process_Test_Mathod"/>
+        </methods>
+      </class> <!-- tests.Test_Shiping_Process -->
+      <class name="tests.FilterTest">
+        <methods>
+          <include name="CreateFilter"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.FilterTest -->
+      <class name="tests.Test_HomePage">
+        <methods>
+          <include name="homepagetestmethod"/>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- tests.Test_HomePage -->
+      <class name="tests.Test_Add_to_Curt">
+        <methods>
+          <include name="Add_to_Curt_Test_Mathod"/>
+        </methods>
+      </class> <!-- tests.Test_Add_to_Curt -->
+    </classes>
+  </test> <!-- regressiontest(failed) -->
+</suite> <!-- Failed suite [testv2] -->

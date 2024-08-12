@@ -1,0 +1,5 @@
+"Epic","Feature","Story","FAILED","BROKEN","PASSED","SKIPPED","UNKNOWN"
+"Registration","Sign In with Temporary mail ","In this testcase we tried to test Sign In  option is working or notThen we sign In with Temporary mail address with OTP automatically ","0","0","1","0","0"
+"Add to curt Module ","Product is add to curt option ","In this testcase we tried to test add to differnet product to curt option  Then we we check add to curt option is working or not  ","0","0","1","0","0"
+"","","","0","0","1","0","0"
+"Filter Test","Shorting Product","In this testcase we tried to test Filter option is working or not","0","0","1","0","0"
