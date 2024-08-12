@@ -1,5 +1,5 @@
 
-# Web Automation Test on rokomari.com [Supershop module]
+# Web Automation Test on rokomari.com [Supershop module] and Sign in using Temp mail 
 ## Video: https://youtu.be/i-FNH1g7W1s
 ## Required Tool
   
